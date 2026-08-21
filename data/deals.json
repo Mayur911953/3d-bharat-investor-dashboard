@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "DL-0001",
+    "company": "NovaPay 1",
+    "industry": "FinTech",
+    "risk": "Medium",
+    "stage": "Series A",
+    "location": "Pune",
+    "investmentRequired": 2900000,
+    "roi": 8.3,
+    "fundingRaised": 1218000,
+    "status": "Active",
+    "founded": 2016,
+    "employees": 66,
+    "description": "FinTech company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 1653000,
+      "ebitda": 333500,
+      "growth": 15.2
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 3.5
+      },
+      {
+        "year": "Y2",
+        "value": 5.6
+      },
+      {
+        "year": "Y3",
+        "value": 7.6
+      },
+      {
+        "year": "Y4",
+        "value": 8.3
+      },
+      {
+        "year": "Y5",
+        "value": 9.6
+      }
+    ]
+  },
+  {
+    "id": "DL-0002",
+    "company": "GreenGrid 2",
+    "industry": "HealthTech",
+    "risk": "High",
+    "stage": "Series B",
+    "location": "Mumbai",
+    "investmentRequired": 4600000,
+    "roi": 9.6,
+    "fundingRaised": 2254000,
+    "status": "Active",
+    "founded": 2017,
+    "employees": 97,
+    "description": "HealthTech company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 3174000,
+      "ebitda": 690000,
+      "growth": 18.4
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 4.0
+      },
+      {
+        "year": "Y2",
+        "value": 6.5
+      },
+      {
+        "year": "Y3",
+        "value": 8.7
+      },
+      {
+        "year": "Y4",
+        "value": 9.6
+      },
+      {
+        "year": "Y5",
+        "value": 11.1
+      }
+    ]
+  },
+  {
+    "id": "DL-0003",
+    "company": "MedNexus 3",
+    "industry": "SaaS",
+    "risk": "Low",
+    "stage": "Growth",
+    "location": "Bengaluru",
+    "investmentRequired": 6300000,
+    "roi": 10.9,
+    "fundingRaised": 3528000,
+    "status": "Active",
+    "founded": 2018,
+    "employees": 128,
+    "description": "SaaS company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 5103000,
+      "ebitda": 1165500,
+      "growth": 21.6
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 4.6
+      },
+      {
+        "year": "Y2",
+        "value": 7.4
+      },
+      {
+        "year": "Y3",
+        "value": 9.9
+      },
+      {
+        "year": "Y4",
+        "value": 10.9
+      },
+      {
+        "year": "Y5",
+        "value": 12.6
+      }
+    ]
+  },
+  {
+    "id": "DL-0004",
+    "company": "CloudForge 4",
+    "industry": "CleanTech",
+    "risk": "Medium",
+    "stage": "Seed",
+    "location": "Hyderabad",
+    "investmentRequired": 8000000,
+    "roi": 12.2,
+    "fundingRaised": 5040000,
+    "status": "Active",
+    "founded": 2019,
+    "employees": 159,
+    "description": "CleanTech company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 7440000,
+      "ebitda": 640000,
+      "growth": 24.8
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 5.1
+      },
+      {
+        "year": "Y2",
+        "value": 8.3
+      },
+      {
+        "year": "Y3",
+        "value": 11.1
+      },
+      {
+        "year": "Y4",
+        "value": 12.2
+      },
+      {
+        "year": "Y5",
+        "value": 14.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0005",
+    "company": "AgriPulse 5",
+    "industry": "DeepTech",
+    "risk": "High",
+    "stage": "Series A",
+    "location": "Delhi",
+    "investmentRequired": 1200000,
+    "roi": 13.5,
+    "fundingRaised": 840000,
+    "status": "Active",
+    "founded": 2020,
+    "employees": 190,
+    "description": "DeepTech company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 540000,
+      "ebitda": 138000,
+      "growth": 28.0
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 5.7
+      },
+      {
+        "year": "Y2",
+        "value": 9.2
+      },
+      {
+        "year": "Y3",
+        "value": 12.3
+      },
+      {
+        "year": "Y4",
+        "value": 13.5
+      },
+      {
+        "year": "Y5",
+        "value": 15.7
+      }
+    ]
+  },
+  {
+    "id": "DL-0006",
+    "company": "EduOrbit 6",
+    "industry": "EdTech",
+    "risk": "Low",
+    "stage": "Series B",
+    "location": "Chennai",
+    "investmentRequired": 2900000,
+    "roi": 14.8,
+    "fundingRaised": 2233000,
+    "status": "Active",
+    "founded": 2021,
+    "employees": 221,
+    "description": "EdTech company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 1653000,
+      "ebitda": 435000,
+      "growth": 31.2
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 6.2
+      },
+      {
+        "year": "Y2",
+        "value": 10.1
+      },
+      {
+        "year": "Y3",
+        "value": 13.5
+      },
+      {
+        "year": "Y4",
+        "value": 14.8
+      },
+      {
+        "year": "Y5",
+        "value": 17.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0007",
+    "company": "QuantumStack 7",
+    "industry": "AgriTech",
+    "risk": "Medium",
+    "stage": "Growth",
+    "location": "Ahmedabad",
+    "investmentRequired": 4600000,
+    "roi": 16.1,
+    "fundingRaised": 1610000,
+    "status": "Closed",
+    "founded": 2022,
+    "employees": 252,
+    "description": "AgriTech company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 3174000,
+      "ebitda": 851000,
+      "growth": 34.4
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 6.8
+      },
+      {
+        "year": "Y2",
+        "value": 10.9
+      },
+      {
+        "year": "Y3",
+        "value": 14.7
+      },
+      {
+        "year": "Y4",
+        "value": 16.1
+      },
+      {
+        "year": "Y5",
+        "value": 18.7
+      }
+    ]
+  },
+  {
+    "id": "DL-0008",
+    "company": "FinEdge 8",
+    "industry": "FinTech",
+    "risk": "High",
+    "stage": "Seed",
+    "location": "Pune",
+    "investmentRequired": 6300000,
+    "roi": 17.4,
+    "fundingRaised": 2646000,
+    "status": "Active",
+    "founded": 2023,
+    "employees": 283,
+    "description": "FinTech company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 5103000,
+      "ebitda": 504000,
+      "growth": 37.6
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 7.3
+      },
+      {
+        "year": "Y2",
+        "value": 11.8
+      },
+      {
+        "year": "Y3",
+        "value": 15.8
+      },
+      {
+        "year": "Y4",
+        "value": 17.4
+      },
+      {
+        "year": "Y5",
+        "value": 20.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0009",
+    "company": "SolarLoop 9",
+    "industry": "HealthTech",
+    "risk": "Low",
+    "stage": "Series A",
+    "location": "Mumbai",
+    "investmentRequired": 8000000,
+    "roi": 18.7,
+    "fundingRaised": 3920000,
+    "status": "Active",
+    "founded": 2015,
+    "employees": 314,
+    "description": "HealthTech company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 7440000,
+      "ebitda": 920000,
+      "growth": 40.8
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 7.9
+      },
+      {
+        "year": "Y2",
+        "value": 12.7
+      },
+      {
+        "year": "Y3",
+        "value": 17.0
+      },
+      {
+        "year": "Y4",
+        "value": 18.7
+      },
+      {
+        "year": "Y5",
+        "value": 21.7
+      }
+    ]
+  },
+  {
+    "id": "DL-0010",
+    "company": "HealthBridge 10",
+    "industry": "SaaS",
+    "risk": "Medium",
+    "stage": "Series B",
+    "location": "Bengaluru",
+    "investmentRequired": 1200000,
+    "roi": 20.0,
+    "fundingRaised": 672000,
+    "status": "Active",
+    "founded": 2016,
+    "employees": 345,
+    "description": "SaaS company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 540000,
+      "ebitda": 180000,
+      "growth": 44.0
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 8.4
+      },
+      {
+        "year": "Y2",
+        "value": 13.6
+      },
+      {
+        "year": "Y3",
+        "value": 18.2
+      },
+      {
+        "year": "Y4",
+        "value": 20.0
+      },
+      {
+        "year": "Y5",
+        "value": 23.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0011",
+    "company": "DataNest 11",
+    "industry": "CleanTech",
+    "risk": "High",
+    "stage": "Growth",
+    "location": "Hyderabad",
+    "investmentRequired": 2900000,
+    "roi": 21.3,
+    "fundingRaised": 1827000,
+    "status": "Active",
+    "founded": 2017,
+    "employees": 376,
+    "description": "CleanTech company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 1653000,
+      "ebitda": 536500,
+      "growth": 12.0
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 8.9
+      },
+      {
+        "year": "Y2",
+        "value": 14.5
+      },
+      {
+        "year": "Y3",
+        "value": 19.4
+      },
+      {
+        "year": "Y4",
+        "value": 21.3
+      },
+      {
+        "year": "Y5",
+        "value": 24.7
+      }
+    ]
+  },
+  {
+    "id": "DL-0012",
+    "company": "RuralKart 12",
+    "industry": "DeepTech",
+    "risk": "Low",
+    "stage": "Seed",
+    "location": "Delhi",
+    "investmentRequired": 4600000,
+    "roi": 22.6,
+    "fundingRaised": 3220000,
+    "status": "Active",
+    "founded": 2018,
+    "employees": 407,
+    "description": "DeepTech company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 3174000,
+      "ebitda": 368000,
+      "growth": 15.2
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 9.5
+      },
+      {
+        "year": "Y2",
+        "value": 15.4
+      },
+      {
+        "year": "Y3",
+        "value": 20.6
+      },
+      {
+        "year": "Y4",
+        "value": 22.6
+      },
+      {
+        "year": "Y5",
+        "value": 26.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0013",
+    "company": "NovaPay 13",
+    "industry": "EdTech",
+    "risk": "Medium",
+    "stage": "Series A",
+    "location": "Chennai",
+    "investmentRequired": 6300000,
+    "roi": 23.9,
+    "fundingRaised": 4851000,
+    "status": "Active",
+    "founded": 2019,
+    "employees": 438,
+    "description": "EdTech company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 5103000,
+      "ebitda": 724500,
+      "growth": 18.4
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 10.0
+      },
+      {
+        "year": "Y2",
+        "value": 16.3
+      },
+      {
+        "year": "Y3",
+        "value": 21.7
+      },
+      {
+        "year": "Y4",
+        "value": 23.9
+      },
+      {
+        "year": "Y5",
+        "value": 27.7
+      }
+    ]
+  },
+  {
+    "id": "DL-0014",
+    "company": "GreenGrid 14",
+    "industry": "AgriTech",
+    "risk": "High",
+    "stage": "Series B",
+    "location": "Ahmedabad",
+    "investmentRequired": 8000000,
+    "roi": 25.2,
+    "fundingRaised": 2800000,
+    "status": "Closed",
+    "founded": 2020,
+    "employees": 469,
+    "description": "AgriTech company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 7440000,
+      "ebitda": 1200000,
+      "growth": 21.6
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 10.6
+      },
+      {
+        "year": "Y2",
+        "value": 17.1
+      },
+      {
+        "year": "Y3",
+        "value": 22.9
+      },
+      {
+        "year": "Y4",
+        "value": 25.2
+      },
+      {
+        "year": "Y5",
+        "value": 29.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0015",
+    "company": "MedNexus 15",
+    "industry": "FinTech",
+    "risk": "Low",
+    "stage": "Growth",
+    "location": "Pune",
+    "investmentRequired": 1200000,
+    "roi": 26.5,
+    "fundingRaised": 504000,
+    "status": "Active",
+    "founded": 2021,
+    "employees": 500,
+    "description": "FinTech company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 540000,
+      "ebitda": 222000,
+      "growth": 24.8
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 11.1
+      },
+      {
+        "year": "Y2",
+        "value": 18.0
+      },
+      {
+        "year": "Y3",
+        "value": 24.1
+      },
+      {
+        "year": "Y4",
+        "value": 26.5
+      },
+      {
+        "year": "Y5",
+        "value": 30.7
+      }
+    ]
+  },
+  {
+    "id": "DL-0016",
+    "company": "CloudForge 16",
+    "industry": "HealthTech",
+    "risk": "Medium",
+    "stage": "Seed",
+    "location": "Mumbai",
+    "investmentRequired": 2900000,
+    "roi": 27.8,
+    "fundingRaised": 1421000,
+    "status": "Active",
+    "founded": 2022,
+    "employees": 531,
+    "description": "HealthTech company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 1653000,
+      "ebitda": 232000,
+      "growth": 28.0
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 11.7
+      },
+      {
+        "year": "Y2",
+        "value": 18.9
+      },
+      {
+        "year": "Y3",
+        "value": 25.3
+      },
+      {
+        "year": "Y4",
+        "value": 27.8
+      },
+      {
+        "year": "Y5",
+        "value": 32.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0017",
+    "company": "AgriPulse 17",
+    "industry": "SaaS",
+    "risk": "High",
+    "stage": "Series A",
+    "location": "Bengaluru",
+    "investmentRequired": 4600000,
+    "roi": 29.1,
+    "fundingRaised": 2576000,
+    "status": "Active",
+    "founded": 2023,
+    "employees": 562,
+    "description": "SaaS company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 3174000,
+      "ebitda": 529000,
+      "growth": 31.2
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 12.2
+      },
+      {
+        "year": "Y2",
+        "value": 19.8
+      },
+      {
+        "year": "Y3",
+        "value": 26.5
+      },
+      {
+        "year": "Y4",
+        "value": 29.1
+      },
+      {
+        "year": "Y5",
+        "value": 33.8
+      }
+    ]
+  },
+  {
+    "id": "DL-0018",
+    "company": "EduOrbit 18",
+    "industry": "CleanTech",
+    "risk": "Low",
+    "stage": "Series B",
+    "location": "Hyderabad",
+    "investmentRequired": 6300000,
+    "roi": 30.4,
+    "fundingRaised": 3969000,
+    "status": "Active",
+    "founded": 2015,
+    "employees": 593,
+    "description": "CleanTech company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 5103000,
+      "ebitda": 945000,
+      "growth": 34.4
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 12.8
+      },
+      {
+        "year": "Y2",
+        "value": 20.7
+      },
+      {
+        "year": "Y3",
+        "value": 27.7
+      },
+      {
+        "year": "Y4",
+        "value": 30.4
+      },
+      {
+        "year": "Y5",
+        "value": 35.3
+      }
+    ]
+  },
+  {
+    "id": "DL-0019",
+    "company": "QuantumStack 19",
+    "industry": "DeepTech",
+    "risk": "Medium",
+    "stage": "Growth",
+    "location": "Delhi",
+    "investmentRequired": 8000000,
+    "roi": 31.7,
+    "fundingRaised": 5600000,
+    "status": "Active",
+    "founded": 2016,
+    "employees": 624,
+    "description": "DeepTech company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 7440000,
+      "ebitda": 1480000,
+      "growth": 37.6
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 13.3
+      },
+      {
+        "year": "Y2",
+        "value": 21.6
+      },
+      {
+        "year": "Y3",
+        "value": 28.8
+      },
+      {
+        "year": "Y4",
+        "value": 31.7
+      },
+      {
+        "year": "Y5",
+        "value": 36.8
+      }
+    ]
+  },
+  {
+    "id": "DL-0020",
+    "company": "FinEdge 20",
+    "industry": "EdTech",
+    "risk": "High",
+    "stage": "Seed",
+    "location": "Chennai",
+    "investmentRequired": 1200000,
+    "roi": 7.0,
+    "fundingRaised": 924000,
+    "status": "Active",
+    "founded": 2017,
+    "employees": 655,
+    "description": "EdTech company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 540000,
+      "ebitda": 96000,
+      "growth": 40.8
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 2.9
+      },
+      {
+        "year": "Y2",
+        "value": 4.8
+      },
+      {
+        "year": "Y3",
+        "value": 6.4
+      },
+      {
+        "year": "Y4",
+        "value": 7.0
+      },
+      {
+        "year": "Y5",
+        "value": 8.1
+      }
+    ]
+  },
+  {
+    "id": "DL-0021",
+    "company": "SolarLoop 21",
+    "industry": "AgriTech",
+    "risk": "Low",
+    "stage": "Series A",
+    "location": "Ahmedabad",
+    "investmentRequired": 2900000,
+    "roi": 8.3,
+    "fundingRaised": 1015000,
+    "status": "Closed",
+    "founded": 2018,
+    "employees": 686,
+    "description": "AgriTech company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 1653000,
+      "ebitda": 333500,
+      "growth": 44.0
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 3.5
+      },
+      {
+        "year": "Y2",
+        "value": 5.6
+      },
+      {
+        "year": "Y3",
+        "value": 7.6
+      },
+      {
+        "year": "Y4",
+        "value": 8.3
+      },
+      {
+        "year": "Y5",
+        "value": 9.6
+      }
+    ]
+  },
+  {
+    "id": "DL-0022",
+    "company": "HealthBridge 22",
+    "industry": "FinTech",
+    "risk": "Medium",
+    "stage": "Series B",
+    "location": "Pune",
+    "investmentRequired": 4600000,
+    "roi": 9.6,
+    "fundingRaised": 1932000,
+    "status": "Active",
+    "founded": 2019,
+    "employees": 717,
+    "description": "FinTech company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 3174000,
+      "ebitda": 690000,
+      "growth": 12.0
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 4.0
+      },
+      {
+        "year": "Y2",
+        "value": 6.5
+      },
+      {
+        "year": "Y3",
+        "value": 8.7
+      },
+      {
+        "year": "Y4",
+        "value": 9.6
+      },
+      {
+        "year": "Y5",
+        "value": 11.1
+      }
+    ]
+  },
+  {
+    "id": "DL-0023",
+    "company": "DataNest 23",
+    "industry": "HealthTech",
+    "risk": "High",
+    "stage": "Growth",
+    "location": "Mumbai",
+    "investmentRequired": 6300000,
+    "roi": 10.9,
+    "fundingRaised": 3087000,
+    "status": "Active",
+    "founded": 2020,
+    "employees": 748,
+    "description": "HealthTech company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 5103000,
+      "ebitda": 1165500,
+      "growth": 15.2
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 4.6
+      },
+      {
+        "year": "Y2",
+        "value": 7.4
+      },
+      {
+        "year": "Y3",
+        "value": 9.9
+      },
+      {
+        "year": "Y4",
+        "value": 10.9
+      },
+      {
+        "year": "Y5",
+        "value": 12.6
+      }
+    ]
+  },
+  {
+    "id": "DL-0024",
+    "company": "RuralKart 24",
+    "industry": "SaaS",
+    "risk": "Low",
+    "stage": "Seed",
+    "location": "Bengaluru",
+    "investmentRequired": 8000000,
+    "roi": 12.2,
+    "fundingRaised": 4480000,
+    "status": "Active",
+    "founded": 2021,
+    "employees": 779,
+    "description": "SaaS company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 7440000,
+      "ebitda": 640000,
+      "growth": 18.4
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 5.1
+      },
+      {
+        "year": "Y2",
+        "value": 8.3
+      },
+      {
+        "year": "Y3",
+        "value": 11.1
+      },
+      {
+        "year": "Y4",
+        "value": 12.2
+      },
+      {
+        "year": "Y5",
+        "value": 14.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0025",
+    "company": "NovaPay 25",
+    "industry": "CleanTech",
+    "risk": "Medium",
+    "stage": "Series A",
+    "location": "Hyderabad",
+    "investmentRequired": 1200000,
+    "roi": 13.5,
+    "fundingRaised": 756000,
+    "status": "Active",
+    "founded": 2022,
+    "employees": 810,
+    "description": "CleanTech company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 540000,
+      "ebitda": 138000,
+      "growth": 21.6
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 5.7
+      },
+      {
+        "year": "Y2",
+        "value": 9.2
+      },
+      {
+        "year": "Y3",
+        "value": 12.3
+      },
+      {
+        "year": "Y4",
+        "value": 13.5
+      },
+      {
+        "year": "Y5",
+        "value": 15.7
+      }
+    ]
+  },
+  {
+    "id": "DL-0026",
+    "company": "GreenGrid 26",
+    "industry": "DeepTech",
+    "risk": "High",
+    "stage": "Series B",
+    "location": "Delhi",
+    "investmentRequired": 2900000,
+    "roi": 14.8,
+    "fundingRaised": 2030000,
+    "status": "Active",
+    "founded": 2023,
+    "employees": 841,
+    "description": "DeepTech company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 1653000,
+      "ebitda": 435000,
+      "growth": 24.8
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 6.2
+      },
+      {
+        "year": "Y2",
+        "value": 10.1
+      },
+      {
+        "year": "Y3",
+        "value": 13.5
+      },
+      {
+        "year": "Y4",
+        "value": 14.8
+      },
+      {
+        "year": "Y5",
+        "value": 17.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0027",
+    "company": "MedNexus 27",
+    "industry": "EdTech",
+    "risk": "Low",
+    "stage": "Growth",
+    "location": "Chennai",
+    "investmentRequired": 4600000,
+    "roi": 16.1,
+    "fundingRaised": 3542000,
+    "status": "Active",
+    "founded": 2015,
+    "employees": 52,
+    "description": "EdTech company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 3174000,
+      "ebitda": 851000,
+      "growth": 28.0
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 6.8
+      },
+      {
+        "year": "Y2",
+        "value": 10.9
+      },
+      {
+        "year": "Y3",
+        "value": 14.7
+      },
+      {
+        "year": "Y4",
+        "value": 16.1
+      },
+      {
+        "year": "Y5",
+        "value": 18.7
+      }
+    ]
+  },
+  {
+    "id": "DL-0028",
+    "company": "CloudForge 28",
+    "industry": "AgriTech",
+    "risk": "Medium",
+    "stage": "Seed",
+    "location": "Ahmedabad",
+    "investmentRequired": 6300000,
+    "roi": 17.4,
+    "fundingRaised": 2205000,
+    "status": "Closed",
+    "founded": 2016,
+    "employees": 83,
+    "description": "AgriTech company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 5103000,
+      "ebitda": 504000,
+      "growth": 31.2
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 7.3
+      },
+      {
+        "year": "Y2",
+        "value": 11.8
+      },
+      {
+        "year": "Y3",
+        "value": 15.8
+      },
+      {
+        "year": "Y4",
+        "value": 17.4
+      },
+      {
+        "year": "Y5",
+        "value": 20.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0029",
+    "company": "AgriPulse 29",
+    "industry": "FinTech",
+    "risk": "High",
+    "stage": "Series A",
+    "location": "Pune",
+    "investmentRequired": 8000000,
+    "roi": 18.7,
+    "fundingRaised": 3360000,
+    "status": "Active",
+    "founded": 2017,
+    "employees": 114,
+    "description": "FinTech company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 7440000,
+      "ebitda": 920000,
+      "growth": 34.4
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 7.9
+      },
+      {
+        "year": "Y2",
+        "value": 12.7
+      },
+      {
+        "year": "Y3",
+        "value": 17.0
+      },
+      {
+        "year": "Y4",
+        "value": 18.7
+      },
+      {
+        "year": "Y5",
+        "value": 21.7
+      }
+    ]
+  },
+  {
+    "id": "DL-0030",
+    "company": "EduOrbit 30",
+    "industry": "HealthTech",
+    "risk": "Low",
+    "stage": "Series B",
+    "location": "Mumbai",
+    "investmentRequired": 1200000,
+    "roi": 20.0,
+    "fundingRaised": 588000,
+    "status": "Active",
+    "founded": 2018,
+    "employees": 145,
+    "description": "HealthTech company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 540000,
+      "ebitda": 180000,
+      "growth": 37.6
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 8.4
+      },
+      {
+        "year": "Y2",
+        "value": 13.6
+      },
+      {
+        "year": "Y3",
+        "value": 18.2
+      },
+      {
+        "year": "Y4",
+        "value": 20.0
+      },
+      {
+        "year": "Y5",
+        "value": 23.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0031",
+    "company": "QuantumStack 31",
+    "industry": "SaaS",
+    "risk": "Medium",
+    "stage": "Growth",
+    "location": "Bengaluru",
+    "investmentRequired": 2900000,
+    "roi": 21.3,
+    "fundingRaised": 1624000,
+    "status": "Active",
+    "founded": 2019,
+    "employees": 176,
+    "description": "SaaS company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 1653000,
+      "ebitda": 536500,
+      "growth": 40.8
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 8.9
+      },
+      {
+        "year": "Y2",
+        "value": 14.5
+      },
+      {
+        "year": "Y3",
+        "value": 19.4
+      },
+      {
+        "year": "Y4",
+        "value": 21.3
+      },
+      {
+        "year": "Y5",
+        "value": 24.7
+      }
+    ]
+  },
+  {
+    "id": "DL-0032",
+    "company": "FinEdge 32",
+    "industry": "CleanTech",
+    "risk": "High",
+    "stage": "Seed",
+    "location": "Hyderabad",
+    "investmentRequired": 4600000,
+    "roi": 22.6,
+    "fundingRaised": 2898000,
+    "status": "Active",
+    "founded": 2020,
+    "employees": 207,
+    "description": "CleanTech company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 3174000,
+      "ebitda": 368000,
+      "growth": 44.0
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 9.5
+      },
+      {
+        "year": "Y2",
+        "value": 15.4
+      },
+      {
+        "year": "Y3",
+        "value": 20.6
+      },
+      {
+        "year": "Y4",
+        "value": 22.6
+      },
+      {
+        "year": "Y5",
+        "value": 26.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0033",
+    "company": "SolarLoop 33",
+    "industry": "DeepTech",
+    "risk": "Low",
+    "stage": "Series A",
+    "location": "Delhi",
+    "investmentRequired": 6300000,
+    "roi": 23.9,
+    "fundingRaised": 4410000,
+    "status": "Active",
+    "founded": 2021,
+    "employees": 238,
+    "description": "DeepTech company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 5103000,
+      "ebitda": 724500,
+      "growth": 12.0
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 10.0
+      },
+      {
+        "year": "Y2",
+        "value": 16.3
+      },
+      {
+        "year": "Y3",
+        "value": 21.7
+      },
+      {
+        "year": "Y4",
+        "value": 23.9
+      },
+      {
+        "year": "Y5",
+        "value": 27.7
+      }
+    ]
+  },
+  {
+    "id": "DL-0034",
+    "company": "HealthBridge 34",
+    "industry": "EdTech",
+    "risk": "Medium",
+    "stage": "Series B",
+    "location": "Chennai",
+    "investmentRequired": 8000000,
+    "roi": 25.2,
+    "fundingRaised": 6160000,
+    "status": "Active",
+    "founded": 2022,
+    "employees": 269,
+    "description": "EdTech company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 7440000,
+      "ebitda": 1200000,
+      "growth": 15.2
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 10.6
+      },
+      {
+        "year": "Y2",
+        "value": 17.1
+      },
+      {
+        "year": "Y3",
+        "value": 22.9
+      },
+      {
+        "year": "Y4",
+        "value": 25.2
+      },
+      {
+        "year": "Y5",
+        "value": 29.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0035",
+    "company": "DataNest 35",
+    "industry": "AgriTech",
+    "risk": "High",
+    "stage": "Growth",
+    "location": "Ahmedabad",
+    "investmentRequired": 1200000,
+    "roi": 26.5,
+    "fundingRaised": 420000,
+    "status": "Closed",
+    "founded": 2023,
+    "employees": 300,
+    "description": "AgriTech company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 540000,
+      "ebitda": 222000,
+      "growth": 18.4
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 11.1
+      },
+      {
+        "year": "Y2",
+        "value": 18.0
+      },
+      {
+        "year": "Y3",
+        "value": 24.1
+      },
+      {
+        "year": "Y4",
+        "value": 26.5
+      },
+      {
+        "year": "Y5",
+        "value": 30.7
+      }
+    ]
+  },
+  {
+    "id": "DL-0036",
+    "company": "RuralKart 36",
+    "industry": "FinTech",
+    "risk": "Low",
+    "stage": "Seed",
+    "location": "Pune",
+    "investmentRequired": 2900000,
+    "roi": 27.8,
+    "fundingRaised": 1218000,
+    "status": "Active",
+    "founded": 2015,
+    "employees": 331,
+    "description": "FinTech company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 1653000,
+      "ebitda": 232000,
+      "growth": 21.6
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 11.7
+      },
+      {
+        "year": "Y2",
+        "value": 18.9
+      },
+      {
+        "year": "Y3",
+        "value": 25.3
+      },
+      {
+        "year": "Y4",
+        "value": 27.8
+      },
+      {
+        "year": "Y5",
+        "value": 32.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0037",
+    "company": "NovaPay 37",
+    "industry": "HealthTech",
+    "risk": "Medium",
+    "stage": "Series A",
+    "location": "Mumbai",
+    "investmentRequired": 4600000,
+    "roi": 29.1,
+    "fundingRaised": 2254000,
+    "status": "Active",
+    "founded": 2016,
+    "employees": 362,
+    "description": "HealthTech company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 3174000,
+      "ebitda": 529000,
+      "growth": 24.8
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 12.2
+      },
+      {
+        "year": "Y2",
+        "value": 19.8
+      },
+      {
+        "year": "Y3",
+        "value": 26.5
+      },
+      {
+        "year": "Y4",
+        "value": 29.1
+      },
+      {
+        "year": "Y5",
+        "value": 33.8
+      }
+    ]
+  },
+  {
+    "id": "DL-0038",
+    "company": "GreenGrid 38",
+    "industry": "SaaS",
+    "risk": "High",
+    "stage": "Series B",
+    "location": "Bengaluru",
+    "investmentRequired": 6300000,
+    "roi": 30.4,
+    "fundingRaised": 3528000,
+    "status": "Active",
+    "founded": 2017,
+    "employees": 393,
+    "description": "SaaS company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 5103000,
+      "ebitda": 945000,
+      "growth": 28.0
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 12.8
+      },
+      {
+        "year": "Y2",
+        "value": 20.7
+      },
+      {
+        "year": "Y3",
+        "value": 27.7
+      },
+      {
+        "year": "Y4",
+        "value": 30.4
+      },
+      {
+        "year": "Y5",
+        "value": 35.3
+      }
+    ]
+  },
+  {
+    "id": "DL-0039",
+    "company": "MedNexus 39",
+    "industry": "CleanTech",
+    "risk": "Low",
+    "stage": "Growth",
+    "location": "Hyderabad",
+    "investmentRequired": 8000000,
+    "roi": 31.7,
+    "fundingRaised": 5040000,
+    "status": "Active",
+    "founded": 2018,
+    "employees": 424,
+    "description": "CleanTech company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 7440000,
+      "ebitda": 1480000,
+      "growth": 31.2
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 13.3
+      },
+      {
+        "year": "Y2",
+        "value": 21.6
+      },
+      {
+        "year": "Y3",
+        "value": 28.8
+      },
+      {
+        "year": "Y4",
+        "value": 31.7
+      },
+      {
+        "year": "Y5",
+        "value": 36.8
+      }
+    ]
+  },
+  {
+    "id": "DL-0040",
+    "company": "CloudForge 40",
+    "industry": "DeepTech",
+    "risk": "Medium",
+    "stage": "Seed",
+    "location": "Delhi",
+    "investmentRequired": 1200000,
+    "roi": 7.0,
+    "fundingRaised": 840000,
+    "status": "Active",
+    "founded": 2019,
+    "employees": 455,
+    "description": "DeepTech company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 540000,
+      "ebitda": 96000,
+      "growth": 34.4
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 2.9
+      },
+      {
+        "year": "Y2",
+        "value": 4.8
+      },
+      {
+        "year": "Y3",
+        "value": 6.4
+      },
+      {
+        "year": "Y4",
+        "value": 7.0
+      },
+      {
+        "year": "Y5",
+        "value": 8.1
+      }
+    ]
+  },
+  {
+    "id": "DL-0041",
+    "company": "AgriPulse 41",
+    "industry": "EdTech",
+    "risk": "High",
+    "stage": "Series A",
+    "location": "Chennai",
+    "investmentRequired": 2900000,
+    "roi": 8.3,
+    "fundingRaised": 2233000,
+    "status": "Active",
+    "founded": 2020,
+    "employees": 486,
+    "description": "EdTech company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 1653000,
+      "ebitda": 333500,
+      "growth": 37.6
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 3.5
+      },
+      {
+        "year": "Y2",
+        "value": 5.6
+      },
+      {
+        "year": "Y3",
+        "value": 7.6
+      },
+      {
+        "year": "Y4",
+        "value": 8.3
+      },
+      {
+        "year": "Y5",
+        "value": 9.6
+      }
+    ]
+  },
+  {
+    "id": "DL-0042",
+    "company": "EduOrbit 42",
+    "industry": "AgriTech",
+    "risk": "Low",
+    "stage": "Series B",
+    "location": "Ahmedabad",
+    "investmentRequired": 4600000,
+    "roi": 9.6,
+    "fundingRaised": 1610000,
+    "status": "Closed",
+    "founded": 2021,
+    "employees": 517,
+    "description": "AgriTech company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 3174000,
+      "ebitda": 690000,
+      "growth": 40.8
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 4.0
+      },
+      {
+        "year": "Y2",
+        "value": 6.5
+      },
+      {
+        "year": "Y3",
+        "value": 8.7
+      },
+      {
+        "year": "Y4",
+        "value": 9.6
+      },
+      {
+        "year": "Y5",
+        "value": 11.1
+      }
+    ]
+  },
+  {
+    "id": "DL-0043",
+    "company": "QuantumStack 43",
+    "industry": "FinTech",
+    "risk": "Medium",
+    "stage": "Growth",
+    "location": "Pune",
+    "investmentRequired": 6300000,
+    "roi": 10.9,
+    "fundingRaised": 2646000,
+    "status": "Active",
+    "founded": 2022,
+    "employees": 548,
+    "description": "FinTech company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 5103000,
+      "ebitda": 1165500,
+      "growth": 44.0
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 4.6
+      },
+      {
+        "year": "Y2",
+        "value": 7.4
+      },
+      {
+        "year": "Y3",
+        "value": 9.9
+      },
+      {
+        "year": "Y4",
+        "value": 10.9
+      },
+      {
+        "year": "Y5",
+        "value": 12.6
+      }
+    ]
+  },
+  {
+    "id": "DL-0044",
+    "company": "FinEdge 44",
+    "industry": "HealthTech",
+    "risk": "High",
+    "stage": "Seed",
+    "location": "Mumbai",
+    "investmentRequired": 8000000,
+    "roi": 12.2,
+    "fundingRaised": 3920000,
+    "status": "Active",
+    "founded": 2023,
+    "employees": 579,
+    "description": "HealthTech company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 7440000,
+      "ebitda": 640000,
+      "growth": 12.0
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 5.1
+      },
+      {
+        "year": "Y2",
+        "value": 8.3
+      },
+      {
+        "year": "Y3",
+        "value": 11.1
+      },
+      {
+        "year": "Y4",
+        "value": 12.2
+      },
+      {
+        "year": "Y5",
+        "value": 14.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0045",
+    "company": "SolarLoop 45",
+    "industry": "SaaS",
+    "risk": "Low",
+    "stage": "Series A",
+    "location": "Bengaluru",
+    "investmentRequired": 1200000,
+    "roi": 13.5,
+    "fundingRaised": 672000,
+    "status": "Active",
+    "founded": 2015,
+    "employees": 610,
+    "description": "SaaS company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 540000,
+      "ebitda": 138000,
+      "growth": 15.2
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 5.7
+      },
+      {
+        "year": "Y2",
+        "value": 9.2
+      },
+      {
+        "year": "Y3",
+        "value": 12.3
+      },
+      {
+        "year": "Y4",
+        "value": 13.5
+      },
+      {
+        "year": "Y5",
+        "value": 15.7
+      }
+    ]
+  },
+  {
+    "id": "DL-0046",
+    "company": "HealthBridge 46",
+    "industry": "CleanTech",
+    "risk": "Medium",
+    "stage": "Series B",
+    "location": "Hyderabad",
+    "investmentRequired": 2900000,
+    "roi": 14.8,
+    "fundingRaised": 1827000,
+    "status": "Active",
+    "founded": 2016,
+    "employees": 641,
+    "description": "CleanTech company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 1653000,
+      "ebitda": 435000,
+      "growth": 18.4
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 6.2
+      },
+      {
+        "year": "Y2",
+        "value": 10.1
+      },
+      {
+        "year": "Y3",
+        "value": 13.5
+      },
+      {
+        "year": "Y4",
+        "value": 14.8
+      },
+      {
+        "year": "Y5",
+        "value": 17.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0047",
+    "company": "DataNest 47",
+    "industry": "DeepTech",
+    "risk": "High",
+    "stage": "Growth",
+    "location": "Delhi",
+    "investmentRequired": 4600000,
+    "roi": 16.1,
+    "fundingRaised": 3220000,
+    "status": "Active",
+    "founded": 2017,
+    "employees": 672,
+    "description": "DeepTech company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 3174000,
+      "ebitda": 851000,
+      "growth": 21.6
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 6.8
+      },
+      {
+        "year": "Y2",
+        "value": 10.9
+      },
+      {
+        "year": "Y3",
+        "value": 14.7
+      },
+      {
+        "year": "Y4",
+        "value": 16.1
+      },
+      {
+        "year": "Y5",
+        "value": 18.7
+      }
+    ]
+  },
+  {
+    "id": "DL-0048",
+    "company": "RuralKart 48",
+    "industry": "EdTech",
+    "risk": "Low",
+    "stage": "Seed",
+    "location": "Chennai",
+    "investmentRequired": 6300000,
+    "roi": 17.4,
+    "fundingRaised": 4851000,
+    "status": "Active",
+    "founded": 2018,
+    "employees": 703,
+    "description": "EdTech company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 5103000,
+      "ebitda": 504000,
+      "growth": 24.8
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 7.3
+      },
+      {
+        "year": "Y2",
+        "value": 11.8
+      },
+      {
+        "year": "Y3",
+        "value": 15.8
+      },
+      {
+        "year": "Y4",
+        "value": 17.4
+      },
+      {
+        "year": "Y5",
+        "value": 20.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0049",
+    "company": "NovaPay 49",
+    "industry": "AgriTech",
+    "risk": "Medium",
+    "stage": "Series A",
+    "location": "Ahmedabad",
+    "investmentRequired": 8000000,
+    "roi": 18.7,
+    "fundingRaised": 2800000,
+    "status": "Closed",
+    "founded": 2019,
+    "employees": 734,
+    "description": "AgriTech company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 7440000,
+      "ebitda": 920000,
+      "growth": 28.0
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 7.9
+      },
+      {
+        "year": "Y2",
+        "value": 12.7
+      },
+      {
+        "year": "Y3",
+        "value": 17.0
+      },
+      {
+        "year": "Y4",
+        "value": 18.7
+      },
+      {
+        "year": "Y5",
+        "value": 21.7
+      }
+    ]
+  },
+  {
+    "id": "DL-0050",
+    "company": "GreenGrid 50",
+    "industry": "FinTech",
+    "risk": "High",
+    "stage": "Series B",
+    "location": "Pune",
+    "investmentRequired": 1200000,
+    "roi": 20.0,
+    "fundingRaised": 504000,
+    "status": "Active",
+    "founded": 2020,
+    "employees": 765,
+    "description": "FinTech company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 540000,
+      "ebitda": 180000,
+      "growth": 31.2
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 8.4
+      },
+      {
+        "year": "Y2",
+        "value": 13.6
+      },
+      {
+        "year": "Y3",
+        "value": 18.2
+      },
+      {
+        "year": "Y4",
+        "value": 20.0
+      },
+      {
+        "year": "Y5",
+        "value": 23.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0051",
+    "company": "MedNexus 51",
+    "industry": "HealthTech",
+    "risk": "Low",
+    "stage": "Growth",
+    "location": "Mumbai",
+    "investmentRequired": 2900000,
+    "roi": 21.3,
+    "fundingRaised": 1421000,
+    "status": "Active",
+    "founded": 2021,
+    "employees": 796,
+    "description": "HealthTech company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 1653000,
+      "ebitda": 536500,
+      "growth": 34.4
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 8.9
+      },
+      {
+        "year": "Y2",
+        "value": 14.5
+      },
+      {
+        "year": "Y3",
+        "value": 19.4
+      },
+      {
+        "year": "Y4",
+        "value": 21.3
+      },
+      {
+        "year": "Y5",
+        "value": 24.7
+      }
+    ]
+  },
+  {
+    "id": "DL-0052",
+    "company": "CloudForge 52",
+    "industry": "SaaS",
+    "risk": "Medium",
+    "stage": "Seed",
+    "location": "Bengaluru",
+    "investmentRequired": 4600000,
+    "roi": 22.6,
+    "fundingRaised": 2576000,
+    "status": "Active",
+    "founded": 2022,
+    "employees": 827,
+    "description": "SaaS company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 3174000,
+      "ebitda": 368000,
+      "growth": 37.6
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 9.5
+      },
+      {
+        "year": "Y2",
+        "value": 15.4
+      },
+      {
+        "year": "Y3",
+        "value": 20.6
+      },
+      {
+        "year": "Y4",
+        "value": 22.6
+      },
+      {
+        "year": "Y5",
+        "value": 26.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0053",
+    "company": "AgriPulse 53",
+    "industry": "CleanTech",
+    "risk": "High",
+    "stage": "Series A",
+    "location": "Hyderabad",
+    "investmentRequired": 6300000,
+    "roi": 23.9,
+    "fundingRaised": 3969000,
+    "status": "Active",
+    "founded": 2023,
+    "employees": 38,
+    "description": "CleanTech company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 5103000,
+      "ebitda": 724500,
+      "growth": 40.8
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 10.0
+      },
+      {
+        "year": "Y2",
+        "value": 16.3
+      },
+      {
+        "year": "Y3",
+        "value": 21.7
+      },
+      {
+        "year": "Y4",
+        "value": 23.9
+      },
+      {
+        "year": "Y5",
+        "value": 27.7
+      }
+    ]
+  },
+  {
+    "id": "DL-0054",
+    "company": "EduOrbit 54",
+    "industry": "DeepTech",
+    "risk": "Low",
+    "stage": "Series B",
+    "location": "Delhi",
+    "investmentRequired": 8000000,
+    "roi": 25.2,
+    "fundingRaised": 5600000,
+    "status": "Active",
+    "founded": 2015,
+    "employees": 69,
+    "description": "DeepTech company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 7440000,
+      "ebitda": 1200000,
+      "growth": 44.0
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 10.6
+      },
+      {
+        "year": "Y2",
+        "value": 17.1
+      },
+      {
+        "year": "Y3",
+        "value": 22.9
+      },
+      {
+        "year": "Y4",
+        "value": 25.2
+      },
+      {
+        "year": "Y5",
+        "value": 29.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0055",
+    "company": "QuantumStack 55",
+    "industry": "EdTech",
+    "risk": "Medium",
+    "stage": "Growth",
+    "location": "Chennai",
+    "investmentRequired": 1200000,
+    "roi": 26.5,
+    "fundingRaised": 924000,
+    "status": "Active",
+    "founded": 2016,
+    "employees": 100,
+    "description": "EdTech company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 540000,
+      "ebitda": 222000,
+      "growth": 12.0
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 11.1
+      },
+      {
+        "year": "Y2",
+        "value": 18.0
+      },
+      {
+        "year": "Y3",
+        "value": 24.1
+      },
+      {
+        "year": "Y4",
+        "value": 26.5
+      },
+      {
+        "year": "Y5",
+        "value": 30.7
+      }
+    ]
+  },
+  {
+    "id": "DL-0056",
+    "company": "FinEdge 56",
+    "industry": "AgriTech",
+    "risk": "High",
+    "stage": "Seed",
+    "location": "Ahmedabad",
+    "investmentRequired": 2900000,
+    "roi": 27.8,
+    "fundingRaised": 1015000,
+    "status": "Closed",
+    "founded": 2017,
+    "employees": 131,
+    "description": "AgriTech company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 1653000,
+      "ebitda": 232000,
+      "growth": 15.2
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 11.7
+      },
+      {
+        "year": "Y2",
+        "value": 18.9
+      },
+      {
+        "year": "Y3",
+        "value": 25.3
+      },
+      {
+        "year": "Y4",
+        "value": 27.8
+      },
+      {
+        "year": "Y5",
+        "value": 32.2
+      }
+    ]
+  },
+  {
+    "id": "DL-0057",
+    "company": "SolarLoop 57",
+    "industry": "FinTech",
+    "risk": "Low",
+    "stage": "Series A",
+    "location": "Pune",
+    "investmentRequired": 4600000,
+    "roi": 29.1,
+    "fundingRaised": 1932000,
+    "status": "Active",
+    "founded": 2018,
+    "employees": 162,
+    "description": "FinTech company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 3174000,
+      "ebitda": 529000,
+      "growth": 18.4
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 12.2
+      },
+      {
+        "year": "Y2",
+        "value": 19.8
+      },
+      {
+        "year": "Y3",
+        "value": 26.5
+      },
+      {
+        "year": "Y4",
+        "value": 29.1
+      },
+      {
+        "year": "Y5",
+        "value": 33.8
+      }
+    ]
+  },
+  {
+    "id": "DL-0058",
+    "company": "HealthBridge 58",
+    "industry": "HealthTech",
+    "risk": "Medium",
+    "stage": "Series B",
+    "location": "Mumbai",
+    "investmentRequired": 6300000,
+    "roi": 30.4,
+    "fundingRaised": 3087000,
+    "status": "Active",
+    "founded": 2019,
+    "employees": 193,
+    "description": "HealthTech company building scalable products for the Indian market with a medium risk profile.",
+    "metrics": {
+      "revenue": 5103000,
+      "ebitda": 945000,
+      "growth": 21.6
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 12.8
+      },
+      {
+        "year": "Y2",
+        "value": 20.7
+      },
+      {
+        "year": "Y3",
+        "value": 27.7
+      },
+      {
+        "year": "Y4",
+        "value": 30.4
+      },
+      {
+        "year": "Y5",
+        "value": 35.3
+      }
+    ]
+  },
+  {
+    "id": "DL-0059",
+    "company": "DataNest 59",
+    "industry": "SaaS",
+    "risk": "High",
+    "stage": "Growth",
+    "location": "Bengaluru",
+    "investmentRequired": 8000000,
+    "roi": 31.7,
+    "fundingRaised": 4480000,
+    "status": "Active",
+    "founded": 2020,
+    "employees": 224,
+    "description": "SaaS company building scalable products for the Indian market with a high risk profile.",
+    "metrics": {
+      "revenue": 7440000,
+      "ebitda": 1480000,
+      "growth": 24.8
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 13.3
+      },
+      {
+        "year": "Y2",
+        "value": 21.6
+      },
+      {
+        "year": "Y3",
+        "value": 28.8
+      },
+      {
+        "year": "Y4",
+        "value": 31.7
+      },
+      {
+        "year": "Y5",
+        "value": 36.8
+      }
+    ]
+  },
+  {
+    "id": "DL-0060",
+    "company": "RuralKart 60",
+    "industry": "CleanTech",
+    "risk": "Low",
+    "stage": "Seed",
+    "location": "Hyderabad",
+    "investmentRequired": 1200000,
+    "roi": 7.0,
+    "fundingRaised": 756000,
+    "status": "Active",
+    "founded": 2021,
+    "employees": 255,
+    "description": "CleanTech company building scalable products for the Indian market with a low risk profile.",
+    "metrics": {
+      "revenue": 540000,
+      "ebitda": 96000,
+      "growth": 28.0
+    },
+    "roiProjection": [
+      {
+        "year": "Y1",
+        "value": 2.9
+      },
+      {
+        "year": "Y2",
+        "value": 4.8
+      },
+      {
+        "year": "Y3",
+        "value": 6.4
+      },
+      {
+        "year": "Y4",
+        "value": 7.0
+      },
+      {
+        "year": "Y5",
+        "value": 8.1
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "INV-001",
+    "name": "Apex Ventures",
+    "type": "VC Fund",
+    "budget": 4250000,
+    "preferredIndustries": [
+      "FinTech",
+      "CleanTech"
+    ],
+    "riskTolerance": "High",
+    "portfolioSize": 8
+  },
+  {
+    "id": "INV-002",
+    "name": "BluePeak Capital",
+    "type": "VC Fund",
+    "budget": 5500000,
+    "preferredIndustries": [
+      "HealthTech",
+      "DeepTech"
+    ],
+    "riskTolerance": "Low",
+    "portfolioSize": 11
+  },
+  {
+    "id": "INV-003",
+    "name": "NorthStar Fund",
+    "type": "Angel Network",
+    "budget": 6750000,
+    "preferredIndustries": [
+      "SaaS",
+      "EdTech"
+    ],
+    "riskTolerance": "Medium",
+    "portfolioSize": 14
+  },
+  {
+    "id": "INV-004",
+    "name": "Urban Angel Network",
+    "type": "VC Fund",
+    "budget": 8000000,
+    "preferredIndustries": [
+      "CleanTech",
+      "AgriTech"
+    ],
+    "riskTolerance": "High",
+    "portfolioSize": 17
+  },
+  {
+    "id": "INV-005",
+    "name": "Vertex Holdings",
+    "type": "VC Fund",
+    "budget": 9250000,
+    "preferredIndustries": [
+      "DeepTech",
+      "FinTech"
+    ],
+    "riskTolerance": "Low",
+    "portfolioSize": 20
+  },
+  {
+    "id": "INV-006",
+    "name": "Pioneer Growth",
+    "type": "Angel Network",
+    "budget": 10500000,
+    "preferredIndustries": [
+      "EdTech",
+      "HealthTech"
+    ],
+    "riskTolerance": "Medium",
+    "portfolioSize": 23
+  },
+  {
+    "id": "INV-007",
+    "name": "Mosaic Capital",
+    "type": "VC Fund",
+    "budget": 11750000,
+    "preferredIndustries": [
+      "AgriTech",
+      "SaaS"
+    ],
+    "riskTolerance": "High",
+    "portfolioSize": 26
+  },
+  {
+    "id": "INV-008",
+    "name": "Summit Partners",
+    "type": "VC Fund",
+    "budget": 13000000,
+    "preferredIndustries": [
+      "FinTech",
+      "CleanTech"
+    ],
+    "riskTolerance": "Low",
+    "portfolioSize": 29
+  },
+  {
+    "id": "INV-009",
+    "name": "Orbit Ventures",
+    "type": "Angel Network",
+    "budget": 14250000,
+    "preferredIndustries": [
+      "HealthTech",
+      "DeepTech"
+    ],
+    "riskTolerance": "Medium",
+    "portfolioSize": 32
+  },
+  {
+    "id": "INV-010",
+    "name": "Catalyst Fund",
+    "type": "VC Fund",
+    "budget": 15500000,
+    "preferredIndustries": [
+      "SaaS",
+      "EdTech"
+    ],
+    "riskTolerance": "High",
+    "portfolioSize": 35
+  },
+  {
+    "id": "INV-011",
+    "name": "Indus Capital",
+    "type": "VC Fund",
+    "budget": 16750000,
+    "preferredIndustries": [
+      "CleanTech",
+      "AgriTech"
+    ],
+    "riskTolerance": "Low",
+    "portfolioSize": 38
+  },
+  {
+    "id": "INV-012",
+    "name": "Horizon Angels",
+    "type": "Angel Network",
+    "budget": 18000000,
+    "preferredIndustries": [
+      "DeepTech",
+      "FinTech"
+    ],
+    "riskTolerance": "Medium",
+    "portfolioSize": 41
+  }
+]
